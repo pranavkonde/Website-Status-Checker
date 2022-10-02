@@ -1,1 +1,1 @@
-Day 13 Assignments
+It checks wheather the website is up or down and also checks the status repeatedly 
